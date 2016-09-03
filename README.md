@@ -1,10 +1,10 @@
 Separasilabas
 =============
 
-Script de python que separa palabras castellanas en sílabas
+Script de python que separa palabras castellanas en sílabas.
 
 Uso
-***
+===
 
 En un script de python:
 
